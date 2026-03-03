@@ -1,0 +1,778 @@
+[27-Feb-2026 18:47:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 19:12:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/login.php on line 14
+[27-Feb-2026 19:12:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/login.php on line 14
+[27-Feb-2026 19:29:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 20:02:22 UTC] PHP Parse error:  syntax error, unexpected identifier "Location", expecting ")" in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 20:02:31 UTC] PHP Parse error:  syntax error, unexpected identifier "Location", expecting ")" in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 20:02:46 UTC] PHP Parse error:  syntax error, unexpected identifier "Location", expecting ")" in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 20:03:00 UTC] PHP Parse error:  syntax error, unexpected identifier "Location", expecting ")" in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 20:05:41 UTC] PHP Parse error:  syntax error, unexpected identifier "Location", expecting ")" in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 34
+[27-Feb-2026 20:17:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 25
+[27-Feb-2026 20:24:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 25
+[27-Feb-2026 20:26:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/bookings.php on line 31
+[27-Feb-2026 20:26:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/bookings.php on line 31
+[28-Feb-2026 20:28:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/index.php on line 41
+[28-Feb-2026 20:29:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 25
+[28-Feb-2026 20:30:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/login.php on line 14
+[28-Feb-2026 20:30:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/login.php on line 14
+[28-Feb-2026 20:47:56 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 2
+[28-Feb-2026 20:47:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 25
+[28-Feb-2026 20:48:11 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 2
+[28-Feb-2026 20:48:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 25
+[28-Feb-2026 21:04:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 25
+[28-Feb-2026 21:33:59 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=7
+[28-Feb-2026 21:33:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tpaisde3/accommodation.tpais-events.com/includes/header.php:1) in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 29
+[28-Feb-2026 21:41:46 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=8
+[28-Feb-2026 21:51:13 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=9
+[28-Feb-2026 21:54:40 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=10
+[28-Feb-2026 21:54:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_reference' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php:64
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php(64): mysqli->query('UPDATE bookings...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(34): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 64
+[28-Feb-2026 21:56:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_reference' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php:64
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php(64): mysqli->query('UPDATE bookings...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(34): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 64
+[28-Feb-2026 21:58:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_reference' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php:54
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php(54): mysqli->query('UPDATE bookings...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(34): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 54
+[28-Feb-2026 21:59:04 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=11
+[28-Feb-2026 21:59:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_reference' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php:54
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php(54): mysqli->query('UPDATE bookings...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(34): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/payment.php on line 54
+[28-Feb-2026 22:02:32 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=12
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:50:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 376
+[28-Feb-2026 22:51:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 377
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:07:28 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:30 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "phone" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 338
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 343
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 348
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:07 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:11 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:15 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:09:24 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 396
+[28-Feb-2026 23:12:00 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 397
+[28-Feb-2026 23:16:07 UTC] Redirecting to: https://accommodation.tpais-events.com/?page=payment&id=13
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:20:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:02 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:02 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:05 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:12 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:21:40 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:29:56 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[28-Feb-2026 23:32:01 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:07:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'phone' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:40
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(40): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 40
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:22 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:32 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:08:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:09:21 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:10:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'phone' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:40
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(40): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 40
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:15:54 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:16:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:40
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(40): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 40
+[01-Mar-2026 00:17:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:40
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(40): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 40
+[01-Mar-2026 00:26:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:48
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(48): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 48
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:44 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:51 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:55 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:26:57 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:04 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:09 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 439
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 444
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:13 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:31
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php(31): mysqli->prepare('UPDATE bookings...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 31
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:39 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 439
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 444
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_in" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 493
+[01-Mar-2026 00:27:42 UTC] PHP Warning:  Undefined array key "check_out" in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 494
+[01-Mar-2026 00:28:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:31
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php(31): mysqli->prepare('UPDATE bookings...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 31
+[01-Mar-2026 00:29:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:48
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(48): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 48
+[01-Mar-2026 00:29:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'check_in' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:48
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(48): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 48
+[01-Mar-2026 00:40:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'payment_method' in 'field list' in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php:48
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php(48): mysqli->prepare('INSERT INTO boo...')
+#1 /home3/tpaisde3/accommodation.tpais-events.com/index.php(31): require_once('/home3/tpaisde3...')
+#2 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/booking.php on line 48
+[02-Mar-2026 18:50:58 Africa/Lagos] PHP Warning:  The use statement with non-compound name 'TCPDF' has no effect in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php on line 4
+[02-Mar-2026 18:51:02 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:06 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:08 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:32 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:32 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:38 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:51:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 18:52:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php:8
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/includes/email_functions.php(11): generateInvoicePDF(Array, Array)
+#1 /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php(43): sendInvoiceEmailWithPDF(Array, Array)
+#2 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once('/home3/tpaisde3...')
+#3 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php on line 8
+[02-Mar-2026 18:52:20 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php:171
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/includes/email_functions.php(98): generateReceiptPDF(Array, Array)
+#1 /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php(72): sendReceiptEmailWithPDF(Array, Array)
+#2 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once('/home3/tpaisde3...')
+#3 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php on line 171
+[02-Mar-2026 18:52:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php:8
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/includes/email_functions.php(11): generateInvoicePDF(Array, Array)
+#1 /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php(43): sendInvoiceEmailWithPDF(Array, Array)
+#2 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once('/home3/tpaisde3...')
+#3 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php on line 8
+[02-Mar-2026 18:53:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "TCPDF" not found in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php:171
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/includes/email_functions.php(98): generateReceiptPDF(Array, Array)
+#1 /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php(72): sendReceiptEmailWithPDF(Array, Array)
+#2 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once('/home3/tpaisde3...')
+#3 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/includes/pdf_functions.php on line 171
+[02-Mar-2026 19:07:22 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 19:07:22 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 19:09:54 Africa/Lagos] PHP Warning:  require_once(/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php): Failed to open stream: No such file or directory in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
+[02-Mar-2026 19:09:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tpaisde3/accommodation.tpais-events.com/pages/admin/users.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php:878
+Stack trace:
+#0 /home3/tpaisde3/accommodation.tpais-events.com/index.php(47): require_once()
+#1 {main}
+  thrown in /home3/tpaisde3/accommodation.tpais-events.com/pages/admin/dashboard.php on line 878
