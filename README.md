@@ -202,7 +202,7 @@ The demo includes realistic sample data:
 
 ---
 
-## âœ… Browser Compatibility
+## Browser Compatibility
 
 Works on all modern browsers:
 - âœ… Chrome/Chromium (latest)
@@ -213,7 +213,7 @@ Works on all modern browsers:
 
 ---
 
-## ðŸŽ¯ Use Cases
+## Use Cases
 
 ### **Portfolio Presentation**
 - Showcase admin dashboard design to clients
@@ -241,7 +241,7 @@ Works on all modern browsers:
 
 ---
 
-## ðŸ”§ Customization
+## Customization
 
 ### **Changing Colors**
 Update the color values in the CSS:
@@ -275,13 +275,13 @@ table td:nth-child(1) { min-width: 70px; }
 
 ---
 
-## ðŸ“Œ Important Notes
+## Important Notes
 
 ### **Demo Limitations**
-- âš ï¸ **No Backend:** All functionality is UI-only (no actual data persistence)
-- âš ï¸ **No Database:** Sample data is hardcoded in HTML
-- âš ï¸ **No Authentication:** No login system in this demo
-- âš ï¸ **No API Calls:** Buttons show alerts instead of performing actions
+-  **No Backend:** All functionality is UI-only (no actual data persistence)
+-  **No Database:** Sample data is hardcoded in HTML
+-  **No Authentication:** No login system in this demo
+-  **No API Calls:** Buttons show alerts instead of performing actions
 
 ### **For Production Use**
 - Connect to actual backend API
@@ -316,7 +316,7 @@ table td:nth-child(1) { min-width: 70px; }
 
 ---
 
-## ðŸ“ž Support
+## Support
 
 For questions or issues with the portfolio demo:
 1. Check this README for documentation
@@ -326,22 +326,22 @@ For questions or issues with the portfolio demo:
 
 ---
 
-## ðŸ“„ License
+## License
 
 This portfolio demo is part of the TPAIS Accommodation Management System.
 
 ---
 
-## ðŸŽ‰ Summary
+## Summary
 
 This portfolio demo showcases a modern, professional admin dashboard with an improved bookings table layout that solves the original column width and text wrapping issues. It demonstrates:
 
-- âœ… Professional UI/UX design
-- âœ… Responsive table layouts
-- âœ… Interactive components
-- âœ… Clean, maintainable code
-- âœ… TPAIS brand consistency
-- âœ… Portfolio-ready presentation
+- Professional UI/UX design
+- Responsive table layouts
+- Interactive components
+- Clean, maintainable code
+- TPAIS brand consistency
+- Portfolio-ready presentation
 
 Perfect for showcasing your admin dashboard design to clients, stakeholders, or as a reference implementation for your development team!
 
